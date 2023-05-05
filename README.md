@@ -4,7 +4,7 @@ This project aims to analyze and visualize the Uber travel network in Peru using
 
 Try this project in [Google Colab](https://colab.research.google.com/drive/1w13KWdeQZGOkWm3ARdEYJ16Dxsxn9QdY?usp=sharing)
 
-![Image of first 20 nodes](https://github.com/oliverTuesta/reddit-communities-reddit/blob/main/images/first_20_nodes.png)
+![Image of first 20 nodes](https://github.com/leonel1301/UberPeru-Trips-Network/blob/main/images/image_subgraph_500_nodes.png)
 
 ## Tools
 
