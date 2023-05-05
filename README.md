@@ -1,6 +1,6 @@
 # UberPeru-Trips-Network
 
-This project aims to analyze and visualize the Uber travel network in Peru using graph techniques and graphical representations. We use the "Uber Peru 2010" dataset, which consists of information on trip start and end locations, along with the distance and duration of each trip. To build the graph, we represent the start and end locations as nodes and the connections between them as directed edges, with distance and duration attributes on the edges. In this project, we will work with a subgraph that includes the first 5000 nodes.
+This project aims to analyze and visualize the Uber travel network in Peru using graph techniques and graphical representations. We use the "Uber Peru 2010" dataset, which consists of information on trip start and end locations, along with the distance and duration of each trip. To build the graph, we represent the start and end locations as nodes and the connections between them as directed edges, with distance and duration attributes on the edges. In this project, we will work with a subgraph that includes the first 18, 686 nodes.
 
 Try this project in [Google Colab](https://colab.research.google.com/drive/1w13KWdeQZGOkWm3ARdEYJ16Dxsxn9QdY?usp=sharing)
 
